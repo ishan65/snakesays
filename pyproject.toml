@@ -4,6 +4,8 @@ version = "1.2.1"
 description = "To display with effect of snake saying"
 authors = ["Ishan Mahajan <imahajan0007@gmail.com>"]
 readme = "README.md"
+homepage = "https://github.com/ishan65/snakesays.git"
+repository = "https://github.com/ishan65/snakesays.git"
 
 [tool.poetry.dependencies]
 python = "^3.8"
