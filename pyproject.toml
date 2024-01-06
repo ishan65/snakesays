@@ -12,6 +12,12 @@ python = "^3.8"
 [tool.poetry.group.dev.dependencies]
 black = "^23.12.1"
 
+
+[[tool.poetry.source]]
+name = "snakesays"
+url = "https://github.com/ishan65/snakesays.git"
+priority = "primary"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
