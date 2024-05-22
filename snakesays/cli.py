@@ -1,5 +1,5 @@
 import sys
-from snakesay import snake
+from snakesays import snake
 
 
 def snakesay():

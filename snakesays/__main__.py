@@ -1,4 +1,4 @@
-from snakesay.cli import snakesay
+from snakesays.cli import snakesay
 
 # VERSION = "1.2.1"
 
